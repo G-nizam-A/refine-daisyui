@@ -4,14 +4,12 @@ This repository contains a web application built with React that provides a dash
 
 ## Screenshots
 
+**Dashboard:**
+
 ![Screenshot 1](/Screenshots/ss1.png)
 ![Screenshot 1](/Screenshots/ss2.png)
 ![Screenshot 1](/Screenshots/ss3.png)
 ![Screenshot 1](/Screenshots/ss4.png)
-
-**Dashboard:**
-
-[Insert Dashboard Screenshot Here]
 
 ## Features
 
@@ -25,29 +23,21 @@ This repository contains a web application built with React that provides a dash
 The project is structured as follows:
 
 - **Components:** Contains reusable UI components such as charts, tabs, and tooltips.
-- **Hooks:** Custom React hooks for fetching data from an API and handling state.
 - **Pages:** React components representing different pages of the application.
 - **Utils:** Utility functions and constants used throughout the application.
-
-## Assumptions Made
-
-- The application assumes that the data fetched from the API follows a specific format compatible with the chart components used.
-- It assumes a continuous deployment pipeline with Vercel, so instructions for deployment are tailored accordingly.
-
-
 
 ## Installation and Usage
 
 1. **Clone the repository:**
 
     ```bash
-    git clone [repository-url]
+    git clone https://github.com/G-nizam-A/refine-daisyui
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd [project-directory]
+    cd refine-daisyui
     ```
 
 3. **Install dependencies:**
@@ -70,14 +60,7 @@ The application is deployed on Vercel. To deploy the application:
 
 **Deployed application is here**
 
-    [here.](https://refine.dev/blog/daisy-ui-react-admin-panel/)
-
-
-    ```bash
-    npm install -g vercel
-    ```
-
-Follow the prompts to configure deployment settings.
+**[Visit the application](https://my-refine-daisyui.vercel.app/).**
 
 ## Quality of Code
 
