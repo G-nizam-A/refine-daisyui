@@ -6,7 +6,7 @@ export const Layout: React.FC<PropsWithChildren> = ({ children }) => {
   return (
     <div className="">
       <Menu />
-      <div className="p-4 bg-zinc-100">
+      <div className="p-4 bg-zinc-100 min-h-screen">
         <Breadcrumb />
         <div>{children}</div>
       </div>

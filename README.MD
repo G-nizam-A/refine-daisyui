@@ -4,6 +4,11 @@ This repository contains a web application built with React that provides a dash
 
 ## Screenshots
 
+![Screenshot 1](/Screenshots/ss1.png)
+![Screenshot 1](/Screenshots/ss2.png)
+![Screenshot 1](/Screenshots/ss3.png)
+![Screenshot 1](/Screenshots/ss4.png)
+
 **Dashboard:**
 
 [Insert Dashboard Screenshot Here]
@@ -54,31 +59,22 @@ The project is structured as follows:
 4. **Start the development server:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
-5. **Access the application in your browser at [http://localhost:3000](http://localhost:3000).**
+5. **Access the application in your browser at [http://localhost:5173](http://localhost:5173).**
 
 ## Deployment
 
 The application is deployed on Vercel. To deploy the application:
 
-1. **Install the Vercel CLI:**
+**Deployed application is here**
+
+    [here.](https://refine.dev/blog/daisy-ui-react-admin-panel/)
+
 
     ```bash
     npm install -g vercel
-    ```
-
-2. **Log in to your Vercel account:**
-
-    ```bash
-    vercel login
-    ```
-
-3. **Deploy the application:**
-
-    ```bash
-    vercel
     ```
 
 Follow the prompts to configure deployment settings.
@@ -101,6 +97,12 @@ The integrated components provide an intuitive user experience by:
 - Providing hover tooltips for additional context and information.
 - Ensuring responsiveness for optimal viewing across devices.
 
-## Feedback and Contributions
+## Contact
 
-Feedback and contributions to this project are welcome! Please feel free to submit issues or pull requests with any suggestions, bug fixes, or enhancements.
+If you have any questions or suggestions, please feel free to reach out:
+
+- Nizam
+- Email: nizamcs10@gmail.com
+- Project Repository: [GitHub Repository](https://github.com/G-nizam-A)
+
+

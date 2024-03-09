@@ -4,6 +4,13 @@ export default {
   daisyui: {
     themes: [
       {
+        colors: {
+          transparent: "transparent",
+          current: "currentColor",
+          white: "#cccccc",
+        },
+      },
+      {
         light: {
           ...require("daisyui/src/theming/themes")["[data-theme=light]"],
           primary: "#0d89ec",
@@ -16,7 +23,9 @@ export default {
     ],
   },
   theme: {
-    extend: {},
+    extend: {
+      boxShadow: { xs: "0px 1px  2px 0px #0000003f" },
+    },
   },
   plugins: [require("daisyui")],
 };

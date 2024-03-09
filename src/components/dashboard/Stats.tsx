@@ -16,7 +16,7 @@ type TStats = {
 
 const Stats = ({ dailyRevenue, dailyOrders, newCustomers }: TStats) => {
   return (
-    <div className="w-full mx-auto mb-4 flex flex-col justify-center items-stretch md:flex-row md:justify-between drop-shadow-md">
+    <div className="w-full mx-auto mb-4 flex flex-col justify-center items-stretch lg:flex-row md:justify-between drop-shadow-md">
       <div className="w-full mx-auto md:flex-1 md:mr-2">
         <KpiCard
           title="Weekly Revenue"
